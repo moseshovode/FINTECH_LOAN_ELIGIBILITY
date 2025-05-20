@@ -54,7 +54,12 @@ After  submitting your details by inserting your userID(e.g user 2, loan amount)
 it wil then display:
    The eligibility status
 
-       fintech_loan_eligibility ![loan eligibility picture](https://github.com/user-attachments/assets/0ec8f8fb-4ace-482d-b47c-0ce9dd536e8c)
+       fintech_loan_eligibility ![loan eligibility picture](https://github.com/user-attachments/assets/c6beb84e-abc4-44a4-9890-689aa34915b5)
+ 
+      
+
+]
+]
 
       
 
