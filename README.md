@@ -52,9 +52,12 @@ Displays eligibility status, approval probability, average income, recommended m
 #  Result
 After  submitting your details by inserting your userID(e.g user 2, loan amount)
 it wil then display:
-   The eligibility status
+   The eligibility status:
 
-       fintech_loan_eligibility ![loan eligibility picture](https://github.com/user-attachments/assets/c6beb84e-abc4-44a4-9890-689aa34915b5)
+   ![loan eligibility picture](https://github.com/user-attachments/assets/092a4cbb-6a66-4c2c-a51e-c1364a933c4c)
+
+
+    
  
       
 
