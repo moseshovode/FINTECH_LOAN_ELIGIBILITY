@@ -2,10 +2,10 @@
 
 # FINTECH LOAN ELIGIBILITY
 
-#  Project Overview
+# 1. Project Overview
 The Fintech Loan Eligibility Assessor is a simulation-based application developed with Streamlit. It analyzes synthetic financial transaction data to determine whether a user is eligible for a loan. The project demonstrates how cash inflow trends can serve as alternative credit assessment metrics, particularly for underbanked individuals with no formal credit history.
 
-#  Problems the Project Aims to Address
+# 2. Problems the Project Aims to Address
 Lack of credit history: Many individuals in emerging economies are excluded from traditional lending due to absence of credit records.
 
 Ineffective credit scoring: Conventional models often ignore dynamic financial behaviors like monthly cash flow trends.
@@ -16,7 +16,7 @@ Poor decision transparency: Most systems are black-box models, offering no expla
 
 This project offers a transparent, lightweight, and explainable model for assessing creditworthiness using cash inflow data alone.
 
-#  Project Features
+# 3. Project Features
  Simulates 12 months of transaction history for 10 users
 
  Identifies income trends using linear regression
@@ -33,7 +33,7 @@ This project offers a transparent, lightweight, and explainable model for assess
 
  Streamlit UI for real-time interaction
 
-#  How It Works
+# 4. How It Works
 Data Simulation:
 Generates transaction data with varying income behaviors (stable, increasing, decreasing).
 
@@ -49,7 +49,7 @@ Checks if the requested loan is within 3× average inflow. If not, approval prob
 Decision Output:
 Displays eligibility status, approval probability, average income, recommended max loan, and a visual plot of the income trend.
 
-#  Result
+# 5. Result
 After  submitting your details by inserting your userID(e.g user 2, loan amount)
 it wil then display:
    The eligibility status:
@@ -66,16 +66,16 @@ it wil then display:
 
       
 
-# App Deployment
+# 6. App Deployment
 The fintech loan eligibility demo app will be deployed on streamlit.
 Here is the link of the app https://fintechloaneligibility-8quaqz4gqvz7ae2nlzwugc.streamlit.app/
 
-# Jupiter Notebook Link Access
+# 7. Jupiter Notebook Link Access
 
 Here is the link to the jupiter notebook https://drive.google.com/file/d/1GmYnDkY2JZA4JuIH9-xqiCPIfN29bgwW/view?usp=sharing
 
 
-#  Future Plan
+# 8. Future Plan
  Integrate real financial APIs (e.g., open banking, mobile money)
 
  Introduce ML models (e.g., logistic regression, decision trees)
@@ -88,7 +88,7 @@ Here is the link to the jupiter notebook https://drive.google.com/file/d/1GmYnDk
 
  Pilot in partnership with fintech organizations or incubators
 
- # Innovation & Collaboration
+ # 9. Innovation & Collaboration
 Innovative Aspects:
 
 Uses synthetic but realistic transaction data
@@ -97,7 +97,7 @@ Applies regression for scoring in a transparent way
 
 Demonstrates how to replace credit scores with behavioral trends
 
-# Collaboration Opportunities:
+# 10. Collaboration Opportunities:
 
 Fintech startups exploring financial inclusion
 
@@ -107,7 +107,7 @@ NGOs working with unbanked communities
 
 Educators teaching credit analysis or responsible lending
 
-#  Challenges
+# 11. Challenges
 Simulated data is not reflective of all real-world financial behavior
 
 Linear regression is too simplistic for complex cash flow patterns
